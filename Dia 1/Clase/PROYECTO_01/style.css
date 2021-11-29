@@ -1,0 +1,10 @@
+.Img{
+    height: 50px;
+    width: 50px;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
